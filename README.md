@@ -4,6 +4,8 @@
 
 <p>Music/Video/Photo Production</p>
 
+[Llama 7B Q4 - Ubuntu 3800x 3060ti llama.cpp benchmark](https://github.com/ggml-org/llama.cpp/discussions/15013#discussioncomment-18520153)
+
 [Ministral 3 (3B, 8B, 14B) Instruct - M3 Ultra 96GB and M5 Max 36GB llama.cpp benchmark](https://gist.github.com/selfup/2702d6bbda4472ce165a1050d4d674d3)
 
 [Ministral 3 (3B, 8B) Instruct - Ubuntu 3800x 3060ti llama.cpp benchmark ](https://gist.github.com/selfup/241448ab853aa284f71d9350194ba002)
